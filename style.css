@@ -1,3 +1,20 @@
-body {
-    font-family: dejavu;
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+
+* {
+    font-family: 'Muli', sans-serif;
 }
+p {
+    color:#666565;
+    font-size:20px;
+}
+h1 {
+    color:#5c5c5c;
+    font-size:30px;
+}
+body {
+    background-color:#f5f5f5;
+}
+a {
+    border-radius:20px;
+}
+/* The nav bar color would be #7a7a7a, for the nav bar, a div should be added in the html file(s)*/
